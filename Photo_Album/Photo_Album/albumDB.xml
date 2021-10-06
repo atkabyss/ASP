@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <データ項目>
+    <日時>2021年01月11日(月)&lt;br /&gt;午後06時23分48秒</日時>
+    <写真>Upload_data/enikki.png</写真>
+    <コメント>絵日記 Azure DB</コメント>
+  </データ項目>
+  <データ項目>
+    <日時>2021年01月11日(月)&lt;br /&gt;午後06時27分33秒</日時>
+    <写真>Upload_data/radio_taisou.png</写真>
+    <コメント>ラジオ体操</コメント>
+  </データ項目>
+  <データ項目>
+    <日時>2021年01月11日(Mon)&lt;br /&gt;PM08時08分22秒</日時>
+    <写真>Upload_data/syukudai_natsuyasumi_boy_aseru.png</写真>
+    <コメント>夏休みの宿題</コメント>
+  </データ項目>
+</NewDataSet>

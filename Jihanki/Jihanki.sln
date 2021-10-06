@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Jihanki", "Jihanki\", "{6F5CF005-41CF-41CA-9FCF-F466E0BC03B0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55895"
+		Debug.AspNetCompiler.PhysicalPath = "Jihanki\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55895\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55895"
+		Release.AspNetCompiler.PhysicalPath = "Jihanki\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55895\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55895"
+		SlnRelativePath = "Jihanki\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5CF005-41CF-41CA-9FCF-F466E0BC03B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5CF005-41CF-41CA-9FCF-F466E0BC03B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778D7306-9E4E-4083-BEB3-489CFFCCDF51}
+	EndGlobalSection
+EndGlobal
